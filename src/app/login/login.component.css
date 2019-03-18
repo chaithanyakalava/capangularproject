@@ -1,0 +1,14 @@
+.form-control.ng-touched.ng-invalid {
+    border: 1px solid red;
+}
+.form-control.ng-touched.ng-valid {
+    border: 1px solid green;
+}
+form{
+ border: 1px solid white;
+ border-radius: 10%;
+ padding:15px 15px 50px 15px;
+}
+h1{
+  color:white;
+}

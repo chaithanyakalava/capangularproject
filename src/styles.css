@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+body{
+background-color: rgb(200, 218, 241);
+background-image:url("../src/assets/programming-wallpaper-3240x1920-5.jpg");
+color:grey;
+}
+
+/* h1 {
+  color: #111!important;
+} */
+
+
+
